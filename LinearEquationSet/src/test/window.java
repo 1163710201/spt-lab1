@@ -18,7 +18,7 @@ import java.awt.Toolkit;
 
 
 public class window extends JFrame {
-
+	//计算器的图形界面
 	private static final long serialVersionUID = 1L;
 	private JPanel panel1=new JPanel();
 	JLabel label1=new JLabel();
