@@ -1,6 +1,7 @@
 package test;
 
 public class calculation {
+	//the result of calculating linear set 
 	private static String explain="";
 	private static String[] ename;
 	
